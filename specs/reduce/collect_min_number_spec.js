@@ -1,7 +1,5 @@
 'use strict';
 
-var collect_min_number = require('../../practices/reduce/collect_min_number.js');
-
 describe('collect_min_number', function () {
 
   var collection = [1, 8, 9, 21, 5];

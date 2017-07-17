@@ -1,6 +1,5 @@
 'use strict';
 
-var compare_collections = require('../../practices/reduce/compare_collections.js');
 
 describe('compare_collections', function() {
 
